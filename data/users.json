@@ -1,0 +1,14 @@
+[
+	{
+		"email": "indah@mail.com",
+		"password": "indah12345",
+		"phone": "823456789",
+		"role": "Admin"
+	},
+	{
+		"email": "dummy@mail.com",
+		"password": "dumdum123",
+		"phone": "823456789",
+		"role": "User"
+	}
+]
